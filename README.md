@@ -1,1 +1,1 @@
-# -How-to-program-in-C
+# How-to-program-in-C
